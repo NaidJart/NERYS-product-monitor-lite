@@ -263,7 +263,7 @@ if(__name__ == "__main__"):
     # Initialize variables
     products_list = {}
     proxies = get_proxy(proxy_list)
-    discord_webhook = ""  # Put your webhook here
+    discord_webhook = "https://discord.com/api/webhooks/728820147346997278/ocPnHwKHaeCLeq1N1UJ7nAmO1qvat3sxr2G5xv72TubAGZWmhajDzknK9CfR6ZpvxA2i"  # Put your webhook here
 
     # Build database
     build_db()
