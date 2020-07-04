@@ -225,8 +225,8 @@ if(__name__ == "__main__"):
 
     # Keywords (seperated by -)
     keywords = [
-        "bred-toe",
-        "gold-toe",
+        "jordan",
+        "dunk",
         "pharrell",
         "free-throw-line",
         "kendrick",
